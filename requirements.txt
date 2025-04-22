@@ -1,0 +1,12 @@
+streamlit
+streamlit-aggrid
+streamlit_option_menu
+langchain
+langchain-community
+langchain-huggingface
+groq
+sentence-transformers
+faiss-cpu
+pandas
+openpyxl
+folium
